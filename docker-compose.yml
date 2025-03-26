@@ -12,6 +12,8 @@ services:
       - ./config:/config
       - ./wasm:/home/user/wasm/
       - ./database:/home/user/.arbitrum
+    env_file:
+      - .env
     depends_on:
       - validation_node
 

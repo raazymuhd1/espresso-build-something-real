@@ -10,7 +10,7 @@
         "das-index-url": "",
         "has-genesis-state": false,
         "chain-config": {
-            "chainId": 10000000,
+            "chainId": 71717100,
             "homesteadBlock": 0,
             "daoForkSupport": true,
             "eip150Block": 0,
@@ -33,20 +33,20 @@
                 "AllowDebugPrecompiles": true,
                 "DataAvailabilityCommittee": false,
                 "InitialArbOSVersion": 32,
-                "InitialChainOwner": "INITIAL_CHAIN_OWNER_ADDRESS",
+                "InitialChainOwner": "0xdaFE88244735b360F26Ab97cA560853866E302E4",
                 "GenesisBlockNum": 0
             }
         },
         "rollup": {
-            "bridge": "BRIDGE_ADDRESS",
-            "inbox": "INBOX_ADDRESS",
-            "sequencer-inbox": "SEQUENCER_INBOX_ADDRESS",
-            "deployed-at": 100000000,
-            "rollup": "ROLLUP_ADDRESS",
+            "bridge": "0x9Dbf1402E02666E855a6DDc95e1c592084d373d6",
+            "inbox": "0x65cA021308e3Caa26f36B88bd84AECc996713522",
+            "sequencer-inbox": "0x8e7bEaa74577cff545b7bcaA09A50695c359c0Ad",
+            "deployed-at": 135777055,
+            "rollup": "0x90dE781bAD23F4a36DB7a1344626B126984893cE",
             "native-token": "0x0000000000000000000000000000000000000000",
-            "upgrade-executor": "UPGRADE_EXECUTOR_ADDRESS",
-            "validator-utils": "VALIDATOR_UTILS_ADDRESS",
-            "validator-wallet-creator": "VALIDATOR_WALLET_CREATOR_ADDRESS"
+            "upgrade-executor": "0x1245C8C21dFE97BF9384893523a4c705262302cd",
+            "validator-utils": "0xBE11eF22d8E274cB9Ea138D0eD8E946aE043C58a",
+            "validator-wallet-creator": "0x16bcc0Da877C0D847Bb5F3691d2Bd62Ae7E58798"
         }
     }
 ]

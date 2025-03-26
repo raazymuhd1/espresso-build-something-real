@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    
+  },
+  "dependencies": {
+    "pm2": "^6.0.5"
+  }
+}
