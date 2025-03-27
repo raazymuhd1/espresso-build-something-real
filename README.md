@@ -5,7 +5,8 @@
 
 ### Arbitrum Sepolia Nitro Rollup Node Deployments
 #**A Brief Overview**
-    Deploying a fully functional `Arbitrum Nitro Rollup Node` to `arbitrum sepolia` as part of an `espresso hackathon`. all the configuration and setup are provided in this repository.
+
+Deploying a fully functional `Arbitrum Nitro Rollup Node` to `arbitrum sepolia` as part of an `espresso hackathon`. all the configuration and setup are provided in this repository.
 
   The main purpose of this project is to configure and  deploy an `Arbitrum Nitro Rollup Node` on the arbitrum sepolia using testnet parameters `(Decaf Testnet + Arbitrum Sepolia)`.
 
@@ -13,6 +14,7 @@
 
 
 #**Project Requirements**
+
 - `Docker`: Ensure Docker is installed on your system or cloud server.
 - `Docker Compose`: Ensure Docker Compose is installed.
 - `Git`: Ensure Git is installed for cloning the repository.
@@ -48,10 +50,14 @@
 ```
 **note**: if you encountered any errors when running the `docker compose`, ensure all inside the configuration files are correct, for more details visit this site [espresso-docs](https://docs.espressosys.com/network/guides/using-the-espresso-network/using-the-espresso-network-as-an-arbitrum-orbit-chain/running-the-espresso-network-with-arbitrum-cloud#cloud-configuration)
 
+
+
 #**Configuration**
+
   All the configuration files are location in `config` directory, `config/full_node.json` and `l2_chain_info.json`
 
 #**Usage Guide**
+
  Test to send transactions, once your node is running properly:
 
 ```shell
@@ -66,6 +72,7 @@
 ```
 
 **Confirming Rollup Chain Id: Get Chain ID**
+
 ```shell
     curl -X POST
     -H "Content-Type: application/json"
@@ -74,7 +81,8 @@
 ```
 
 **Tasks for Espresso Hackathon**
-    As part of the Espresso Hackathon, the following tasks have been completed:
+
+  As part of the Espresso Hackathon, the following tasks have been completed:
 
  - Configured the node to use a custom `chain ID`, `owner`, `validator`, and `batch poster`.
  - Deployed an `Arbitrum Nitro Rollup node` on Arbitrum Sepolia.
