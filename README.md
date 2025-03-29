@@ -1,8 +1,6 @@
 
   <h1 style="text-align: center"> Espresso Hackathon </h1>
 
- espresso logo goes here..
-
 ### Arbitrum Sepolia Nitro Rollup Node Deployments
 #**A Brief Overview**
 
