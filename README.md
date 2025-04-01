@@ -86,6 +86,20 @@ Deploying a fully functional `Arbitrum Nitro Rollup Node` to `arbitrum sepolia` 
  - Deployed an `Arbitrum Nitro Rollup node` on Arbitrum Sepolia.
  - Tested the node's functionality using `JSON-RPC endpoints` or using `foundry cast`, by sending `bridging`, `transferring`, and `checking` asset balances.
 
+ 
+
+### The submission details
+ - **Demo Video**: https://www.youtube.com/watch?v=ZYxcd2VFQQE&t=408s
+ - 
+ - **github**: 
+   - espresso-contracts: https://github.com/raazymuhd1/espresso-build-something-real 
+   - nitro-rollup: 
+  
+- **Rollup liveness verification**: 
+    - tx-hash: https://sepolia.arbiscan.io/tx/0x2c702db9715f12a07b16b2b85c66524da11e5632659e5e6ec8f240582e18d95f 
+    - Ip-address: http://94.131.99.79:8547/
+    - ChainID: 71717100
+
 
 **Note**: This project is part of the Espresso Hackathon. For more information, visit the [Espresso Systems website](https://docs.espressosys.com/network/guides/using-the-espresso-network/using-the-espresso-network-as-an-arbitrum-orbit-chain/running-the-espresso-network-with-arbitrum-cloud#deploying-the-cloud-arbitrum-orbit-chain)**
 
