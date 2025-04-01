@@ -101,5 +101,30 @@ Deploying a fully functional `Arbitrum Nitro Rollup Node` to `arbitrum sepolia` 
     - ChainID: 71717100
 
 
+### Deployed Arbitrum Nitro Rollup Details
+**Addresses**
+   - owner: `0xdaFE88244735b360F26Ab97cA560853866E302E4`
+   - initial-owner: `0xdaFE88244735b360F26Ab97cA560853866E302E4`
+   - validators: `0x57Ef5309de3c5433cEbFA644b3302c2b6e2d5C10`
+   - batch-poster: `0x651f519C4B2d02084E8Ee0848cd91e4E794C95e7`
+   - batch-poster-manager: `0x651f519C4B2d02084E8Ee0848cd91e4E794C95e7`
+   - bridge: `0x9Dbf1402E02666E855a6DDc95e1c592084d373d6`
+   - inbox": `0x65cA021308e3Caa26f36B88bd84AECc996713522`
+   - sequencer-inbox: `0x8e7bEaa74577cff545b7bcaA09A50695c359c0Ad`,
+   - deployed-at: `135777055`,
+   - rollup: `0x90dE781bAD23F4a36DB7a1344626B126984893cE`,
+    native-token: `0x0000000000000000000000000000000000000000`,
+    upgrade-executor: `0x1245C8C21dFE97BF9384893523a4c705262302cd`,
+    validator-utils: `0xBE11eF22d8E274cB9Ea138D0eD8E946aE043C58a`,
+    validator-wallet-creator: `0x16bcc0Da877C0D847Bb5F3691d2Bd62Ae7E58798`
+
+**Chain ID:**
+  - `71717100`
+  - 
+**RPC-urls:**
+  - hotshot-url: https://query.decaf.testnet.espresso.network/v0
+  - parent-chain-url: wss://arbitrum-sepolia.testnet.espresso.network:4443/
+
+
 **Note**: This project is part of the Espresso Hackathon. For more information, visit the [Espresso Systems website](https://docs.espressosys.com/network/guides/using-the-espresso-network/using-the-espresso-network-as-an-arbitrum-orbit-chain/running-the-espresso-network-with-arbitrum-cloud#deploying-the-cloud-arbitrum-orbit-chain)**
 
