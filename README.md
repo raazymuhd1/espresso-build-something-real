@@ -1,6 +1,7 @@
 
   <h1 style="text-align: center"> Espresso Hackathon </h1>
 
+
 ### Arbitrum Sepolia Nitro Rollup Node Deployments
 #**A Brief Overview**
 
@@ -90,7 +91,7 @@ Deploying a fully functional `Arbitrum Nitro Rollup Node` to `arbitrum sepolia` 
 
 ### The submission details
  - **Demo Video**: https://www.youtube.com/watch?v=ZYxcd2VFQQE&t=408s
- - 
+
  - **github**: 
    - espresso-contracts: https://github.com/raazymuhd1/espresso-build-something-real 
    - nitro-rollup: 
@@ -120,7 +121,7 @@ Deploying a fully functional `Arbitrum Nitro Rollup Node` to `arbitrum sepolia` 
 
 **Chain ID:**
   - `71717100`
-  - 
+  
 **RPC-urls:**
   - hotshot-url: https://query.decaf.testnet.espresso.network/v0
   - parent-chain-url: wss://arbitrum-sepolia.testnet.espresso.network:4443/

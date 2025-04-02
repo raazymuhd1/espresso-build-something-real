@@ -1,7 +1,7 @@
 {
     "parent-chain": {
         "connection": {
-            "url": "${WEBSOCKET_ARBITRUM_SEPOLIA_RPC_URL}"
+            "url": "wss://arbitrum-sepolia.testnet.espresso.network:4443/"
         }
     },
     "chain": {
@@ -13,7 +13,7 @@
     "node": {
         "staker": {
             "parent-chain-wallet": {
-                "private-key": "${STAKER_PRIVATE_KEY}"
+                "private-key": "a14842fbba7f2280c0899013690d33cf7337920d92361938cdc54678741ea2fd"
             },
             "disable-challenge": false,
             "enable": true,
@@ -52,7 +52,7 @@
             "wait-for-max-delay": true,
             "resubmit-espresso-tx-deadline": "2m",
             "parent-chain-wallet": {
-                "private-key": "${BATCH_POSTER_PRIVATE_KEY}"
+                "private-key": "a949860d77d7991486e66ec94923b6d7cb012ffdd00b28c3d972df08e019424b"
             },
             "max-delay": "1m"
         },
