@@ -1,6 +1,8 @@
 
   <h1 style="text-align: center"> Espresso Hackathon </h1>
 
+  ![build-brew](https://github.com/user-attachments/assets/e01299b1-47bf-45db-aed1-aede853281ae)
+
 
 ### Arbitrum Sepolia Nitro Rollup Node Deployments
 #**A Brief Overview**
